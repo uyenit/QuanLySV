@@ -1,0 +1,17 @@
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\QuanLySV.exe.config
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\QuanLySV.exe
+D:\C#\QuanLySV\WindowsFormsApp1\bin\Debug\QuanLySV.pdb
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\QuanLySV.Properties.Resources.resources
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\QuanLySV.exe
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\QuanLySV.pdb
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\QuanLySV.Migrations.SinhVien.resources
+D:\C#\QuanLySV\WindowsFormsApp1\obj\Debug\QuanLySV.ThemSinhVien.resources
